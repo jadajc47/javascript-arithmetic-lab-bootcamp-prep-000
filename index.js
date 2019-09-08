@@ -27,6 +27,14 @@ function makeInt(n) {
   return(n);
 }
 
-function makeInt(n,10) {
+function makeInt(n, 10) {
   return(n);
+}
+
+function perserveDecimal(n) {
+  return(n);
+}
+
+function perserveDecimal(n)
+return(n);
 }
