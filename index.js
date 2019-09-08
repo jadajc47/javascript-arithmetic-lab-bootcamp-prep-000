@@ -20,7 +20,7 @@ function inc(number) {
   return(number);
 }
 
-function dec() {
+function dec(n) {
   return(n);
 }
 
