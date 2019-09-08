@@ -15,13 +15,6 @@ function divide(a,b) {
   return(a/b);
 } 
 
-var number = 530;
-function inc(number) {
-  return(number);
-}
 
-function dec(n) {
-  return(n);
-}
 
 
